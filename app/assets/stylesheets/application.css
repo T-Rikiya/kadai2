@@ -24,3 +24,22 @@ body {
   margin: 33px;
 }
 
+h1 {
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+h2 {
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+th {
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+strong {
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+.field {
+  margin-bottom: 10px;
+}
